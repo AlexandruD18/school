@@ -1,56 +1,66 @@
 # School Repository
 
-\[!\[GitHub Repo Size](https://img.shields.io/github/repo-size/tuo-utente/school)](https://github.com/tuo-utente/school)
+\[!\[Repo Size](https://img.shields.io/github/repo-size/USERNAME/git-school)](https://github.com/USERNAME/git-school) 
 
-\[!\[GitHub Last Commit](https://img.shields.io/github/last-commit/tuo-utente/school)](https://github.com/tuo-utente/school)
+\[!\[Last Commit](https://img.shields.io/github/last-commit/USERNAME/git-school)](https://github.com/USERNAME/git-school/commits/main)
 
-
-
-Repository personale per esperimenti, appunti e prove tecniche legate all'ambiente scolastico.  
-
-Usato per testare comandi Git, esercitarsi con il terminale e organizzare il materiale.
+\[!\[License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 
 
-\## Struttura
+Benvenuto nella mia \*\*School Repository\*\*. Qui troverai tutti i miei file scolastici, progetti, esercizi con CMD e altro materiale utile per lo studio e la pratica.
 
 
 
-\- \*\*notes\*\*: appunti e documenti di studio  
-
-\- \*\*tests\*\*: prove, esercitazioni e file di esempio  
-
-\- \*\*git-cmd\*\*: test con Git e CMD  
-
-\- \*\*projects\*\*: piccoli progetti o esperimenti  
+\## Indice dei contenuti
 
 
 
-\## Obiettivo
+\- \[📂 Scuola](#-scuola)
+
+\- \[💻 Progetti](#-progetti)
+
+\- \[🖥️ CMD \& Script](#-cmd--script)
+
+\- \[📝 Appunti e Note](#-appunti-e-note)
+
+\- \[🔗 Collegamenti utili](#-collegamenti-utili)
 
 
 
-Centralizzare tutto il lavoro in un ambiente ordinato, dove puoi:
+\## 📂 Scuola
+
+File relativi a lezioni, esercizi, compiti e materiali didattici.
 
 
 
-\- gestire file e versioni con Git  
+\## 💻 Progetti
 
-\- testare comandi da terminale  
-
-\- archiviare materiali in modo chiaro  
+Progetti personali e di classe, tra cui applicazioni, siti web, simulazioni o esercizi pratici.
 
 
 
-\## Tecnologie
+\## 🖥️ CMD \& Script
+
+Esercizi e script realizzati con CMD, PowerShell o altri strumenti da terminale.  
+
+Puoi trovare comandi di base, test e mini-progetti pratici.
 
 
 
-\- Git / GitHub  
+\## 📝 Appunti e Note
 
-\- CMD (Windows)  
+Note di studio, schemi, riassunti e guide rapide.  
 
-\- VS Code  
+Organizzati per materia o argomento.
 
-\- Strumenti vari per la gestione dei file  
+
+
+\## 🔗 Collegamenti utili
+
+\- \[GitHub](https://github.com/)
+
+\- \[Documentazione CMD](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
+
+\- \[Guide di programmazione](https://www.w3schools.com/)
 
