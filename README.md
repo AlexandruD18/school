@@ -1,54 +1,56 @@
 # School Repository
 
-\# School Repository
+\[!\[GitHub Repo Size](https://img.shields.io/github/repo-size/tuo-utente/school)](https://github.com/tuo-utente/school)
+
+\[!\[GitHub Last Commit](https://img.shields.io/github/last-commit/tuo-utente/school)](https://github.com/tuo-utente/school)
 
 
 
-Repository personale per esperimenti, appunti e prove tecniche legate all’ambiente scolastico.  
+Repository personale per esperimenti, appunti e prove tecniche legate all'ambiente scolastico.  
 
-Utilizzato per testare comandi Git, esercitarsi con il terminale e mantenere in ordine il materiale di lavoro.
+Usato per testare comandi Git, esercitarsi con il terminale e organizzare il materiale.
 
 
 
 \## Struttura
 
-/notes       → appunti e documenti di studio  
 
-/tests       → prove, esercitazioni e file di esempio  
 
-/git-cmd     → test con Git e CMD  
+\- \*\*notes\*\*: appunti e documenti di studio  
 
-/projects    → piccoli progetti o esperimenti  
+\- \*\*tests\*\*: prove, esercitazioni e file di esempio  
+
+\- \*\*git-cmd\*\*: test con Git e CMD  
+
+\- \*\*projects\*\*: piccoli progetti o esperimenti  
 
 
 
 \## Obiettivo
 
-Creare un ambiente di lavoro ordinato e funzionale dove poter:
 
-\- gestire file e versioni con Git
 
-\- testare comandi da terminale
+Centralizzare tutto il lavoro in un ambiente ordinato, dove puoi:
 
-\- archiviare materiali scolastici in modo chiaro  
+
+
+\- gestire file e versioni con Git  
+
+\- testare comandi da terminale  
+
+\- archiviare materiali in modo chiaro  
 
 
 
 \## Tecnologie
 
-\- Git / GitHub
 
-\- CMD (Windows)
 
-\- VS Code
+\- Git / GitHub  
+
+\- CMD (Windows)  
+
+\- VS Code  
 
 \- Strumenti vari per la gestione dei file  
-
-
-
-\## Autore
-
-Repository privata a uso personale.  
-
-Creata per studio, pratica e sperimentazione.
 
