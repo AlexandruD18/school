@@ -1,6 +1,6 @@
-# Manuale di Ripasso
+# MANUALE DI RIPASSO
 
-## MATRICE
+## Matrice
 
 ### Obiettivo
 
