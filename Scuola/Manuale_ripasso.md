@@ -17,7 +17,7 @@ Trovare le incognite con il metodo dei determinanti.
 
 ---
 
-## RANGO
+## Rango
 
 ### Obiettivo
 
@@ -32,7 +32,7 @@ Determinare il rango di una matrice.
 
 ---
 
-## STATISTICA
+## Statistica
 
 ### Obiettivo
 
@@ -77,7 +77,7 @@ Calcolare frequenze e indici statistici.
 
 ---
 
-## TEOREMA DI BAYES
+## Teorima Di Bayes
 
 ### Obiettivo
 
