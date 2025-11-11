@@ -4,7 +4,7 @@ Repository privata per file scolastici, progetti e script vari.
 
 
 
-\## Struttura
+## Struttura
 
 
 
@@ -16,7 +16,7 @@ Repository privata per file scolastici, progetti e script vari.
 
 
 
-\## Info
+## Info
 
 
 
